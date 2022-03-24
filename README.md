@@ -1,16 +1,20 @@
-<h1 align = "center"> ![Hello there!](/hello-there-general-kenobi.gif) </h1>
+# ![Hello there!](/hello-there-general-kenobi.gif) 
 
 <!--
 **LykiFyar/LykiFyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## Hello there! 👋
+I'm João but I prefer you just call me **Braga**.  
+
+I was born and raised in Barcelos.
+
+👨‍🎓 I'm currently studying Software Engineering @ University Of Minho.
+
+  
+🎮 I'm a technology lover and classified gamer!
+
+Absolute Dragon Ball fan and a Marvel enthusiast! 
+
+<img src="/gogeta-bringit.gif" alt="Gogeta" width="200"/>
+![Gogeta](/gogeta-bringit.gif)
+
