@@ -2,7 +2,23 @@
 
 # Welcome to my GitHub! 👋
 
-### 🎓 I'm currently studying Software Engineering @ University Of Minho.
+🖐️ My name is João Braga, but I prefer you just call me **Braga**.
+
+<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png"/> I'm **19**, from **Barcelos, Braga**. 
+
+🎓 I'm currently studying **Software Engineering @ University Of Minho**.
+
+🎮 My hobbies are **gaming**, listening to **music** and keeping up with **series & movies**.
+
+🎥 Also like doing some [video editing](https://www.youtube.com/watch?v=BCcjqO5oF2w "👀") when I have extra time 
+
+ <img height=16 src="https://icons.iconarchive.com/icons/iconshock/dragonball/256/dragonball-1-icon.png" /> Proud **[Dragon Ball](https://www.youtube.com/watch?v=kkYaQ3FR7hc&ab_channel=Zeon "Great opportunity for a rickroll haha")** and **[Marvel](https://c.tenor.com/fIZ3MfEH6CYAAAAC/ok-daredevil.gif "Another great rickroll")** fan
+ 
+ <img src=/gogeta-bringit.gif title="Bring It!"/>
+
+
+##### -> [College work and projects](https://github.com/LykiFyar/stuff)
+##### -> [Another projects](https://rroll.to/kwkCo8 "I had to! 🤣") 
 
 ---
 
@@ -34,6 +50,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LykiFyar&theme=codeSTACKr&count_private=true&hide=contribs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LykiFyar&theme=codeSTACKr&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **LykiFyar/LykiFyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
