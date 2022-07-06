@@ -10,7 +10,7 @@
 
 🎮 My hobbies are **gaming**, listening to **music** and keeping up with **series & movies**.
 
-🎥 Also like doing some [video editing](https://www.youtube.com/watch?v=BCcjqO5oF2w "👀") when I have extra time 
+🎥 Also like doing some [video editing](https://www.youtube.com/c/LykiFyar "👀") when I have extra time 
 
  <img height=16 src="https://icons.iconarchive.com/icons/iconshock/dragonball/256/dragonball-1-icon.png" /> Proud **[Dragon Ball](https://www.youtube.com/watch?v=kkYaQ3FR7hc&ab_channel=Zeon "Great opportunity for a rickroll haha")** and **[Marvel](https://c.tenor.com/fIZ3MfEH6CYAAAAC/ok-daredevil.gif "Another great rickroll")** fan
  
