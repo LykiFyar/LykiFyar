@@ -4,7 +4,7 @@
 
 🖐️ My name is João Braga, but I prefer you just call me **Braga**.
 
-<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png"/> I'm **19**, from **Barcelos, Braga**. 
+<img height=12 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/600px-Flag_of_Portugal.svg.png"/> I'm **20**, from **Barcelos, Braga**. 
 
 🎓 I'm currently studying **Software Engineering @ University Of Minho**.
 
